@@ -1,5 +1,8 @@
 {
   "name": "travel-agency-node",
+  "engines": {
+    "node": "15.14.0"
+    },
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
